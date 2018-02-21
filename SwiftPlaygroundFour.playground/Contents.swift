@@ -30,3 +30,29 @@ while i <= 10
     //we want to add +1 to i for each iteration through the loop
     i = i + 1
 }
+//Coding Challenge #1
+
+var g = 1
+
+while g <= 3
+{
+    print(g)
+    g = g + 1
+}
+//Coding Challenge #2
+
+var newSum = 10
+
+for numberLine in 1...10
+{
+    newSum -= numberLine
+    print(newSum)
+}
+
+
+
+
+
+
+
+
